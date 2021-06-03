@@ -1,0 +1,11 @@
+.boton {
+    margin-top: 15px;
+    margin-left: 50%;
+    width: 70px;
+    height: 35px;
+    background: aquamarine;
+}
+
+.img_gato {
+    border-top: 2px solid red;
+}
